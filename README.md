@@ -1,4 +1,31 @@
+# a-kafka-story-zookeeper-java-telegraf-jmx-grafana-ksql
+
+# 🚀 Kafka ecosystem ... but step by step! kafka zookeeper kafka-streams cdc kafka-broker debezium ksql 🚀
+
+https://github.com/coding-to-music/a-kafka-story-zookeeper-java-telegraf-jmx-grafana-ksql
+
+From / By
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/a-kafka-story-zookeeper-java-telegraf-jmx-grafana-ksql.git
+git push -u origin main
+```
+
 Please checkout these awesome references
+
 1. http://developer.confluent.io/
 1. https://kafka-tutorials.confluent.io/
 
@@ -30,7 +57,8 @@ Then jump in the Kafka Story!
 
 Don't like Docker ? Please download Confluent platform here: https://www.confluent.io/download/
 
-Also, please take a look at 
+Also, please take a look at
+
 1. https://github.com/confluentinc/cp-demo
 1. https://github.com/confluentinc/demo-scene
 1. https://github.com/confluentinc/examples

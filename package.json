@@ -1,0 +1,21 @@
+{
+  "name": "a-kafka-story-zookeeper-java-telegraf-jmx-grafana-ksql",
+  "version": "1.0.0",
+  "description": "Please checkout these awesome references 1. http://developer.confluent.io/ 1. https://kafka-tutorials.confluent.io/",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framiere/a-kafka-story.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framiere/a-kafka-story/issues"
+  },
+  "homepage": "https://github.com/framiere/a-kafka-story#readme"
+}
