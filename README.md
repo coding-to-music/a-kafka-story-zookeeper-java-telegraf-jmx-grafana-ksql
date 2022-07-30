@@ -4,7 +4,9 @@
 
 https://github.com/coding-to-music/a-kafka-story-zookeeper-java-telegraf-jmx-grafana-ksql
 
-From / By
+From / By Florent Ramière https://github.com/framiere
+
+https://github.com/framiere/a-kafka-story
 
 ## Environment variables:
 
