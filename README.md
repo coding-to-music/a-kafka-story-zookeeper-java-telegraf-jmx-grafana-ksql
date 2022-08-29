@@ -26,7 +26,48 @@ git remote add origin git@github.com:coding-to-music/a-kafka-story-zookeeper-jav
 git push -u origin main
 ```
 
-Please checkout these awesome references
+## Install Java JDK
+
+```
+java --version
+```
+
+java not found 
+
+```
+sudo apt install default-jdk
+```
+ 
+long install output... 
+
+```
+java --version
+```
+
+Output
+
+```
+openjdk 11.0.16 2022-07-19
+OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04)
+OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode, sharing)
+```
+
+```
+sudo apt install default-jre
+```
+
+Output
+
+```
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+default-jre is already the newest version (2:1.11-72).
+default-jre set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 35 not upgraded.
+```
+
+## Please checkout these awesome references
 
 1. http://developer.confluent.io/
 1. https://kafka-tutorials.confluent.io/
